@@ -2,7 +2,4 @@
 
 This is the first file in the repo
 
-## Ipsum Below
-werq
-reqwrqw
-qwerq
+## Website content
